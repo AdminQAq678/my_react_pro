@@ -1,0 +1,11 @@
+.mydropdown{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.avatar：hover .mydropdown{
+    /*width: 100px;*/
+    display: block;
+}
